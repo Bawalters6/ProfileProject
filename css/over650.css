@@ -1,0 +1,12 @@
+section {
+    margin: 0;
+}
+.zion, .bountiful, .farmington{
+        float: left;
+        margin-right: 10px;
+        width: calc((100% - 20px)/3);
+    }
+.farmington:last-of-type {
+        margin-right: 0;
+    }
+}

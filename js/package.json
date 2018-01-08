@@ -1,0 +1,23 @@
+{
+  "name": "myprofile",
+  "version": "1.0.0",
+  "description": "My Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "profile"
+  ],
+  "author": "Blake Walters",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-register-tasks": "^1.0.0",
+    "grunt-responsive-images": "^1.10.1",
+    "load-grunt-tasks": "^3.5.2",
+    "register-grunt-tasks": "^0.1.1"
+  }
+}

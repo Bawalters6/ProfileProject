@@ -1,0 +1,12 @@
+[class*="iconicstroke-cog"]:before {
+    color: #2d3c49;
+    font-family: 'IconicStroke', sans-serif;
+    text-shadow: 3px 3px 3px #aaa;
+    font-size: 90px;
+    margin-left: 15px;
+}
+
+.title-super {
+    font-size: 50px;
+}
+
